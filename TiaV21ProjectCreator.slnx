@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="TiaV21ProjectCreator/TiaV21ProjectCreator.csproj" Id="97e41747-a087-4ddd-8f96-2460b2ed8f32">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
